@@ -7,7 +7,7 @@
 	<RunSet Dir="runs" File="runs.xml"/>
 	<DefaultLaunch Dir="$PRUNDIR"/>
 	<Config>
-		<Option Name="Id" Val="d71c665a98b14be090cb942c685a8aa3"/>
+		<Option Name="Id" Val="ecf52ece9f874546baff43f0298eb503"/>
 		<Option Name="Part" Val="xc7z010clg400-1"/>
 		<Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
 		<Option Name="TargetLanguage" Val="VHDL"/>
